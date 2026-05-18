@@ -1,7 +1,7 @@
 # Supporting-Info
 Store some Info. for Data and code availability of publications.
 
-1. The [dataset for MLIP](./2026_MTP_WeitaoWang) of the paper titled "[Interfacial thermal transport analysis using machine learning potential at AlN/Cu van der Waals interface](https://doi.org/10.1016/j.mtphys.2026.102057)".
+1. The [training dataset](./2026_MTP_WeitaoWang) for machine-learned potential of the paper titled "[Interfacial thermal transport analysis using machine learning potential at AlN/Cu van der Waals interface](https://doi.org/10.1016/j.mtphys.2026.102057)".
 
 
 
