@@ -1,7 +1,7 @@
 # Supporting-Info
 Store some Info. for Data and code availability of publications.
 
-1. The [training dataset](./2026_MTP_WeitaoWang) for machine-learned potential of the paper: W. Wang, X. Wu, Y. Wu, S. Volz, T.Takagi, and M. Nomura, Interfacial thermal transport analysis using machine learning potential at AlN/Cu van der Waals interface, _**Mater. Today Phys**_., 2026, 62, 102057. [🔗](https://doi.org/10.1016/j.mtphys.2026.102057)
+1. The [training dataset](./2026_MTP_WeitaoWang) for machine-learned potential of the paper: W. Wang, X. Wu, Y. Wu, S. Volz, T.Takagi, and M. Nomura, **Interfacial thermal transport analysis using machine learning potential at AlN/Cu van der Waals interface**, _Mater. Today Phys_., 2026, 62, 102057. [🔗](https://doi.org/10.1016/j.mtphys.2026.102057)
 
 
 
