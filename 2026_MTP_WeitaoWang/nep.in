@@ -1,0 +1,18 @@
+type          3 Al N Cu # this is a mandatory keyword
+version       4       # default
+zbl           2.0
+use_typewise_cutoff_zbl
+use_typewise_cutoff
+cutoff        6 4     # default 6 4
+n_max         8 8     # default 4 4
+basis_size    8 8     # default 8 8
+l_max         4 2 0   # default
+neuron        50      # default 30
+lambda_1      0
+lambda_2      0.1
+lambda_e      1.0
+lambda_f      1.0
+lambda_v      0.1
+batch         5000    # default
+population    50      # default 50
+generation    300000
