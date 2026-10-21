@@ -9,4 +9,4 @@ Store some Info. for Data and code availability of publications.
 
 If you use this information, please cite the relevant paper. Thanks!
 
-Please feel free to contact with me if there is any question.
+Please feel free to contact with me if there is any question (xinwuchn97@gmail.com).
