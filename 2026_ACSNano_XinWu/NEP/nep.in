@@ -1,0 +1,16 @@
+type          3 Mo S Se 
+version       4        
+cutoff        5 5      
+n_max         8 8      
+basis_size    12 8     
+l_max         4 2 0    
+neuron        50       
+lambda_1      0.05     
+lambda_2      0.05     
+lambda_e      1.0      
+lambda_f      1.0      
+lambda_v      0.1      
+batch         10000   
+population    50       
+generation    400000
+
